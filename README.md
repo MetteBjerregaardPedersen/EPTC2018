@@ -7,10 +7,10 @@ To repeat the success of Bucharest in 2017, although without built-in slimming t
 
 ### When?
 
-The Team Camp of 2018 is February 5-9th
+The Team Camp of 2018 is February 5-9th.
 
 ### Where? 
-First touchpoint and meeting destination: Salt Lake City Airport
+First touchpoint and meeting destination: Salt Lake City Airport.
 From there we will drive to Park City/Deer Valley (please note that Patrick shouldn't be driving) 
 
 ### What?
