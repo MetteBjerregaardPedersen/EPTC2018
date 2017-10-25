@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Enterprise Platform Team Camp 2018
 
-You can use the [editor on GitHub](https://github.com/MetteBjerregaardPedersen/EPTC2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site will contain all information you need for the Enterprise Platform Team Camp 2018!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why?
+To repeat the success of Bucharest in 2017, although without built-in slimming this time.
 
-### Markdown
+### When?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Team Camp of 2018 is February 5-9th
 
-```markdown
-Syntax highlighted code block
+### Where? 
+First touchpoint and meeting destination: Salt Lake City Airport
+From there we will drive to Park City/Deer Valley (please note that Patrick shouldn't be driving) 
 
-# Header 1
-## Header 2
-### Header 3
+### What?
+What to bring you might ask? I'm glad you did. 
+- Ski gear
+- Hiking shoes
+- Earplugs (I've heard Michael snores.. if he chooses to sleep)
+- Clothes (Mick, do not bring too much clothing if we are going chopping again)
+- Toilettries
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MetteBjerregaardPedersen/EPTC2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**More information to come!**
