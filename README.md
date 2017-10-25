@@ -18,7 +18,7 @@ What to bring you might ask? I'm glad you did.
 - Ski gear
 - Hiking shoes
 - Earplugs (I've heard Michael snores.. if he chooses to sleep)
-- Clothes (Mick, do not bring too much clothing if we are going chopping again)
+- Clothes (Mick, do not bring too much clothing if we are going shopping again)
 - Toilettries
 
 
